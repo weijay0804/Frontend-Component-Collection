@@ -11,3 +11,7 @@
 * [Input Range](/input-range/index.html)
 
 ![input-range](/input-range/input-range.gif)
+
+* [Layered Icon](/layered-icon/inex.html)
+
+![latered icon](/layered-icon/image.gif)
